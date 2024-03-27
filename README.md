@@ -9,7 +9,7 @@ This script allows players to stake their ped hostages with item.
 ## Item 
 
 ```lua
-		['hostagepedcard'] = {
+	['hostagepedcard'] = {
 		label = 'Karta Zakładnika',
 		weight = 3000,
 		stack = false,
