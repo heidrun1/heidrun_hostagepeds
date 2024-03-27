@@ -1,5 +1,5 @@
 
-# Hostage Ped
+# Hostage Peds
 
 This script allows players to stake their ped hostages with item.
 ## Requirements
