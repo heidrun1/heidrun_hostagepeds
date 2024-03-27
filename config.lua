@@ -2,7 +2,7 @@ Config = {}
 
 Config.itemConfig = {
     ["removeitem"] = true,  -- true/false If true then remove value in ["item"]
-    ["item"] = "lockpick",  -- Item need to use cart
+    ["item"] = "hostagepedcard",  -- Item need to use cart
     ["command"] = "hostage" -- Item need to use cart
 }
 
