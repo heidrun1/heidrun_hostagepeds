@@ -2,6 +2,8 @@
 # Hostage Peds
 
 This script allows players to stake their ped hostages with item.
+## Preview
+[Preview](https://www.youtube.com/watch?v=PvEqaG-oG7c&ab_channel=heidrun)
 ## Requirements
 - ESX Legacy
 - Ox Inventory
